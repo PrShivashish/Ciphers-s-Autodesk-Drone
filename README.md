@@ -29,7 +29,7 @@ SIMULATION AND ANALYSIS:
 - Determine areas of potential weakness and reinforce them accordingly.
 - Utilize Fusion 360's simulation tools to predict the robot's performance during climbing and cleaning tasks.
 
-WE HAVE ATTACHED THE SAMPLE OF OUR PROTOTYPE MADE WITH AUTODDESK FUSION 3.0:
+WE HAVE ATTACHED THE SAMPLE OF OUR PROTOTYPE MADE WITH AUTODDESK FUSION 360:
 
 ![7](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/1b1cb676-f47d-4e28-ba65-c24769d8a156)
 ![6](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/fe3b24a2-0688-4442-8984-04ac3bac3fa7)
