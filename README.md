@@ -39,3 +39,8 @@ WE HAVE ATTACHED THE SAMPLE OF OUR PROTOTYPE MADE WITH AUTODDESK FUSION 3.0:
 ![2](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/ad7379c6-018e-42ee-a48d-dc4ce6ac12f8)
 ![1](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/9b684df0-5707-473e-baf8-902862d0361b)
 
+HOW TO ACCESS THE PROTOTYPE FILE:
+- Visit Autodesk Website : https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual
+- Download "Fusion" clicking on Get Started and signing in to your respective account.
+- Install the downloaded programme.
+- Then double click on the downloaded github file i.e "prototype v3.f3d" to open the prototype model.
