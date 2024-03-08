@@ -28,3 +28,10 @@ SIMULATION AND ANALYSIS:
 - Perform stress analysis and simulation to evaluate the structural integrity of the robot's components.
 - Determine areas of potential weakness and reinforce them accordingly.
 - Utilize Fusion 360's simulation tools to predict the robot's performance during climbing and cleaning tasks.
+
+WE HAVE ATTACHED THE SAMPLE OF OUR PROTOTYPE: 
+![Screenshot 2024-03-09 010101](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/569380cf-1da3-4232-aff7-a25da38d2e40)
+![Screenshot 2024-03-09 010040](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/de5717dc-ed11-4fdd-9617-f2de8b015841)
+![Screenshot 2024-03-09 010017](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/d406b524-1325-49fc-96d7-e9706e80fd95)
+![Screenshot 2024-03-09 005946](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/b0883f27-e63a-4044-8bbd-38cbc8a4d413)
+
