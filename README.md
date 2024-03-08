@@ -30,8 +30,11 @@ SIMULATION AND ANALYSIS:
 - Utilize Fusion 360's simulation tools to predict the robot's performance during climbing and cleaning tasks.
 
 WE HAVE ATTACHED THE SAMPLE OF OUR PROTOTYPE: 
-![Screenshot 2024-03-09 010101](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/569380cf-1da3-4232-aff7-a25da38d2e40)
-![Screenshot 2024-03-09 010040](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/de5717dc-ed11-4fdd-9617-f2de8b015841)
-![Screenshot 2024-03-09 010017](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/d406b524-1325-49fc-96d7-e9706e80fd95)
-![Screenshot 2024-03-09 005946](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/b0883f27-e63a-4044-8bbd-38cbc8a4d413)
+![7](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/1b1cb676-f47d-4e28-ba65-c24769d8a156)
+![6](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/fe3b24a2-0688-4442-8984-04ac3bac3fa7)
+![5](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/90c474c3-5879-4785-9e79-f6420ee5b212)
+![4](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/8b5ab8e4-b77c-4bc5-b74d-3a0f5cd8fde2)
+![3](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/d40ef67b-b76d-4dc6-8811-6358f3afb2a1)
+![2](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/ad7379c6-018e-42ee-a48d-dc4ce6ac12f8)
+![1](https://github.com/PrShivashish/Ciphers-s-Autodesk-Drone/assets/141547525/9b684df0-5707-473e-baf8-902862d0361b)
 
